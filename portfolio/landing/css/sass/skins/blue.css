@@ -1,0 +1,155 @@
+/* line 14, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+/* line 18, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+a {
+  color: tomato; }
+
+/* line 21, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+p {
+  color: #FAFAFA; }
+
+/* line 25, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.color_element {
+  color: tomato; }
+
+/* line 27, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.color_bg {
+  background-color: tomato; }
+
+/* line 29, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.color_border {
+  border-color: tomato; }
+
+/* line 31, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.bg_light {
+  background-color: #FAFAFA; }
+
+/* line 33, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.bg_blue {
+  background-color: #78BCE9;
+  color: #fff; }
+  /* line 37, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+  .bg_blue .s_descr::after {
+    background-color: #fff; }
+  /* line 39, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+  .bg_blue a {
+    color: #fff; }
+
+/* line 41, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.bg_foot {
+  background-color: #36446B;
+  color: #fff; }
+
+/* line 44, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.bg_dark {
+  background-color: #222;
+  color: #fff; }
+  /* line 47, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+  .bg_dark .s_descr::after {
+    background-color: #fff; }
+  /* line 49, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+  .bg_dark a {
+    color: #fff; }
+
+/* line 51, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.top_text {
+  color: #fff; }
+
+/* line 53, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.toggle_mnu {
+  background-color: #222; }
+
+/* line 56, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.top_mnu a:hover {
+  color: tomato; }
+/* line 59, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.top_mnu a {
+  letter-spacing: 4px; }
+
+/* line 62, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.s_descr {
+  letter-spacing: 5px; }
+  /* line 64, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+  .s_descr::after {
+    background-color: #222; }
+
+/* line 68, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+section h3 {
+  letter-spacing: 3px; }
+
+/* line 70, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.personal_header {
+  letter-spacing: 2px; }
+
+/* line 74, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.s_about p:nth-child(even) {
+  color: tomato; }
+/* line 76, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.s_about p {
+  color: #888; }
+
+/* line 80, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.resume_container h3 {
+  color: #222;
+  letter-spacing: 2px;
+  font-size: 16px;
+  font-weight: 600; }
+/* line 85, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.resume_container .left .resume_description strong {
+  margin-left: 10px; }
+/* line 87, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.resume_container .right .resume_description strong {
+  margin-right: 10px; }
+
+/* line 91, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.resume_item {
+  margin-bottom: 30px; }
+  /* line 92, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+  .resume_item .year {
+    background-color: tomato;
+    color: #fff; }
+  /* line 96, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+  .resume_item p {
+    color: #888;
+    font-style: italic; }
+  /* line 99, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+  .resume_item .resume_description {
+    letter-spacing: 1px; }
+
+/* line 104, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.s_portfolio li {
+  letter-spacing: 2px; }
+  /* line 106, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+  .s_portfolio li.active {
+    border-bottom: 2px solid red; }
+
+/* line 110, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.portfolio_item .port_item_cont a {
+  border-color: #FAFAFA;
+  color: #1E90DB; }
+
+/* line 114, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.contacts_icon {
+  color: tomato; }
+
+/* line 117, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+.text-danger {
+  color: red; }
+
+/* line 122, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+form input, form textarea {
+  border: 1px solid tomato;
+  letter-spacing: 2px; }
+/* line 125, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+form button {
+  background-color: tomato;
+  letter-spacing: 2px; }
+/* line 128, C:/Users/User/Desktop/wordpress-landing-page-lesson-master/__clean_html_original/css/sass/skins/blue.sass */
+form .form-group {
+  letter-spacing: 2px;
+  color: #888; }
+
+/*# sourceMappingURL=blue.css.map */
